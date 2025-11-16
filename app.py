@@ -36,9 +36,9 @@ if st.button("Predict Risk"):
     if pred ==1:
         st.success("The predicted credit risk is: **GOOD**")
     else:
-        st.error("The preicted credit risk is: **BAD**")
+        st.error("The predicted credit risk is: **BAD**")
 
-        
+
 
 
 
