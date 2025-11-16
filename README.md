@@ -1,6 +1,6 @@
 # 🔍 Credit Risk Prediction App
 
-This project is a machine learning–powered web application designed to predict whether a credit applicant represents a **good** or **bad** credit risk. The model is trained on structured financial and demographic data and deployed using **Streamlit** for interactive user input and real-time predictions.
+This is project is a machine learning–powered web application designed to predict whether a credit applicant represents a **good** or **bad** credit risk. The model is trained on structured financial and demographic data and deployed using **Streamlit** for interactive user input and real-time predictions.
 
 ---
 
@@ -64,25 +64,25 @@ cd <your-repo-folder>
 
 
 ### 2️⃣ Create and activate a virtual environment
-
+```
 python -m venv venv
 source venv/bin/activate   # Mac/Linux
 venv\Scripts\activate      # Windows
-
+```
 
 
 
 ### 3️⃣ Install dependencies
-
+```
 pip install -r requirements.txt
-
+```
 
 
 
 ### 4️⃣ Run the application
-
+```
 streamlit run app.py
-
+```
 
 
 🎯 How It Works
