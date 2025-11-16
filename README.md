@@ -60,10 +60,10 @@ To run the project locally:
 git clone <your-repo-url>
 cd <your-repo-folder>
 
+```
 
 
-
-2️⃣ Create and activate a virtual environment
+### 2️⃣ Create and activate a virtual environment
 
 python -m venv venv
 source venv/bin/activate   # Mac/Linux
@@ -72,14 +72,14 @@ venv\Scripts\activate      # Windows
 
 
 
-3️⃣ Install dependencies
+### 3️⃣ Install dependencies
 
 pip install -r requirements.txt
 
 
 
 
-4️⃣ Run the application
+### 4️⃣ Run the application
 
 streamlit run app.py
 
